@@ -1,0 +1,9 @@
+{
+    "aws_access_key": "<Give ley here>",
+    "aws_secret_key": "<Give secret here>",
+    "region": "us-east-1",
+    "source_ami": "ami-04b4f1a9cf54c11d0",
+    "instance_type": "t2.micro",
+    "vpc_id": "vpc-0ef43a649a8a715fb",
+    "subnet_id": "subnet-058feed4465887f44"
+}
